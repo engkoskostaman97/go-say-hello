@@ -1,0 +1,8 @@
+# Default ignored files
+/../../../:go-say-hello/.idea/shelf/
+/../../../:go-say-hello/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../../:go-say-hello/.idea/httpRequests/
+# Datasource local storage ignored files
+/../../../:go-say-hello/.idea/dataSources/
+/../../../:go-say-hello/.idea/dataSources.local.xml
